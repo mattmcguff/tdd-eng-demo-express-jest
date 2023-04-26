@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "jest/*": ["node_modules/@types/jest/*"]
+    }
+  }
+}
